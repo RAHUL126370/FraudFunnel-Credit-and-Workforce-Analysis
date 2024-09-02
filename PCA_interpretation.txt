@@ -1,0 +1,6 @@
+
+PCA Interpretation:
+1. The first 3 principal components explain at least 90% of the variance in the data.
+2. This suggests that we can reduce the dimensionality of our data to 3 components while retaining most of the information.
+3. Each principal component is a linear combination of the original features, where the first few components capture the most variance.
+
